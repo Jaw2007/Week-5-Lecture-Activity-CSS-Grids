@@ -1,0 +1,19 @@
+header
+{display: grid;
+grid-template-rows: 250px auto 20px; background-color: blue; 
+height:20%; position:fixed; width: 99%;
+ }
+
+ main {
+    display: grid;
+    grid-template-rows: 450px auto 250px;
+ }
+
+footer{display: grid;
+    grid-template-rows: 250px auto 20px; background-color: aquamarine; position: fixed; width: 99%;}
+
+
+ div {background-color: rgb(255, 38, 0);}
+
+ 
+
